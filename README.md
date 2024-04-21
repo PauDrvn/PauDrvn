@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PauDrvn
-- 👀 I’m interested in video games, ecology and photography.
-- 🌱 I’m currently learning coding for my future new traineeship.
+👋 Hi, I’m @PauDrvn
+👀 I’m interested in video games, ecology and photography.
+🌱 I’m currently learning coding for my future new traineeship.
 
 
 <!---
