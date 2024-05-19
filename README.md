@@ -1,5 +1,5 @@
-##Bonjour ! Je suis Pauline Drouvin👋
-###Je suis ingénieure en reconversion dans le domaine du numérique.
+#Bonjour ! Je suis Pauline Drouvin👋
+##Je suis ingénieure en reconversion dans le domaine du numérique.
  Je suis actuellement en recherche de formation pour atteindre cet objectif ! 🚀
  Je m'autoforme également pour avancer sur des projets autoditactes.
 
