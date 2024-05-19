@@ -3,6 +3,8 @@ Je suis ingénieure en reconversion dans le domaine du numérique.
  Je suis actuellement en recherche de formation pour atteindre cet objectif ! 🚀
  Je m'autoforme également pour avancer sur des projets autoditactes.
 
+ ### Mes compétences numériques actuelles 
+HTML 🌐 - CSS 💻 - JavaScript 🚀 - SQL  🗃️ - Bootstrap 🅱️ - Figma & Canva 🎨
 
 <!---
 PauDrvn/PauDrvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
