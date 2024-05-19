@@ -1,6 +1,7 @@
-👋 Hi, I’m @PauDrvn
-👀 I’m interested in video games, ecology and photography.
-🌱 I’m currently learning coding for my future new traineeship.
+##Bonjour ! Je suis Pauline Drouvin👋
+###Je suis ingénieure en reconversion dans le domaine du numérique.
+ Je suis actuellement en recherche de formation pour atteindre cet objectif ! 🚀
+ Je m'autoforme également pour avancer sur des projets autoditactes.
 
 
 <!---
